@@ -50,5 +50,10 @@ $ yarn add @autobele/se-dls
 import { Text } from @autobele/se-dls;
 <Text children="SE Design Library" as="h2" fontColor="magenta"/>
 ```
+
+```javascript
+import { theme } from @autobele/se-dls;
+<p style={{color: theme.colors.magenta}}>Texto cor magenta</p>
+```
 ## **License**
 [MIT](https://github.com/Autobele/se-dls/blob/master/LICENSE)
