@@ -6,7 +6,7 @@ export default {
   title: 'Typography',
   component: Text,
   args: {
-    children: 'SE Design System Library',
+    children: 'SE Design Language System',
     as: 'h1',
     fontSize: 'lg'
   },
