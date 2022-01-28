@@ -3,6 +3,17 @@
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
+  "keywords": [
+    "javascript",
+    "typescript",
+    "tsdx",
+    "storybook",
+    "se-dls",
+    "autobele",
+    "dls",
+    "design",
+    "system"
+  ],
   "files": [
     "dist",
     "src"
