@@ -48,7 +48,7 @@ $ yarn add @autobele/se-dls
 ### Use Component @autobele/se-dls
 ```javascript
 import { Text } from @autobele/se-dls;
-<Text children="SE Design Library" as="h2" fontfontColor="magenta"/>
+<Text children="SE Design Library" as="h2" fontColor="magenta"/>
 ```
 ## **License**
 [MIT](https://github.com/Autobele/se-dls/blob/master/LICENSE)
