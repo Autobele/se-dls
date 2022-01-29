@@ -30,7 +30,7 @@ $ npm run storybook
 
 ## **Documentation**
 
-Check documentaion at the [Link](https://se-dls.netlify.app/?path=/story/typography--light)
+Check documentation at the [Link](https://se-dls.netlify.app/?path=/story/typography--light)
 
 ## **NPM Versions**
 Check for updates version at the [Link](https://www.npmjs.com/package/@autobele/se-dls)
